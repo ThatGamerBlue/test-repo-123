@@ -14,7 +14,10 @@ categories:
   - title: '🧰 Maintenance'
     label: 'chore'
   - title: '🔻 Upstream'
-    label: 'PLEASE_DO_NOT_TOUCH_THIS'
+    labels: 
+      - 'PLEASE_DO_NOT_TOUCH_THIS'
+      - 'reeeeee-random'
+      
 change-template: '* $TITLE (#$NUMBER) @$AUTHOR'
 template: |
   Thanks to: $CONTRIBUTORS
