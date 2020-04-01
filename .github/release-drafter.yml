@@ -13,6 +13,8 @@ categories:
       - 'bug'
   - title: '🧰 Maintenance'
     label: 'chore'
+  - title: '🔻 Upstream'
+    label: 'PLEASE_DO_NOT_TOUCH_THIS'
 change-template: '* $TITLE (#$NUMBER) @$AUTHOR'
 template: |
   Thanks to: $CONTRIBUTORS
