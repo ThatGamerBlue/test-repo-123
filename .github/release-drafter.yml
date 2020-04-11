@@ -16,7 +16,6 @@ categories:
   - title: '🔻 Upstream'
     labels: 
       - 'PLEASE_DO_NOT_TOUCH_THIS'
-      - 'reeeeee-random'
       
 change-template: '* $TITLE (#$NUMBER) @$AUTHOR'
 template: |
