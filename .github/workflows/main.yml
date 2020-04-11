@@ -11,6 +11,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: ThatGamerBlue/release-drafter@5b16eefaec3858c45a72771f04e74ecb29d39b1c
+      - uses: ThatGamerBlue/release-drafter@36aa72a73bfbf01e5cb7369368566f267ac367db
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
